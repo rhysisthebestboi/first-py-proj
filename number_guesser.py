@@ -2,7 +2,7 @@ import random
 
 print("guess a number from 1 to 50. you have 10 guess's")
 
-value = random.randint(1, 10)
+value = random.randint(1, 50)
 
 guess = int(input("what is your guess: "))
 
